@@ -1,0 +1,9 @@
+#Ignore src
+/src/*
+!/src/
+
+#Ignore mysql
+/mysql/*
+!/mysql/
+
+.DS_Store
